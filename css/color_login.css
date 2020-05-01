@@ -1,0 +1,72 @@
+.card.card-login {
+  background: #6a48ff;
+  background: -moz-linear-gradient(-45deg, #383838 0%, #383838 100%);
+  background: -webkit-gradient(left top, right bottom, color-stop(0%, #616161), color-stop(100%, #b4a3ff));
+  background: -webkit-linear-gradient(-45deg, #383838 0%, #383838 100%);
+  background: -o-linear-gradient(-45deg, #383838 0%, #383838 100%);
+  background: -ms-linear-gradient(-45deg, #383838 0%, #383838 100%);
+  background: -webkit-linear-gradient(315deg, #383838 0%, #383838 100%);
+  background: -o-linear-gradient(315deg, #383838 0%, #383838 100%);
+  background: linear-gradient(135deg, #383838 0%, #383838 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6a48ff', endColorstr='#b4a3ff', GradientType=1 );
+  border: none;
+  -webkit-box-shadow: 0px 26px 29px -13px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0px 26px 29px -13px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 26px 29px -13px rgba(0, 0, 0, 0.12); }
+
+.form-login .card-header {
+  background: transparent;
+  border: none; }
+  .form-login .card-header .card-title {
+
+    color: #fff; }
+  .form-login .card-header .social-line {
+    position: relative;
+    display: inline-block; }
+    .form-login .card-header .social-line .btn-icon {
+      width: 40px;
+      height: 40px;
+      position: relative;
+      display: inline-block;
+      float: left;
+      margin: 0 2px;
+      border-radius: 50%;
+      background: #fff; }
+      .form-login .card-header .social-line .btn-icon i {
+        color: #6b48ff; }
+
+.form-login .card-body .input-group .input-group-prepend .input-group-text {
+  width: 40px;
+  border-color: rgba(0, 0, 0, 0.1);
+  padding: 0; }
+  .form-login .card-body .input-group .input-group-prepend .input-group-text i {
+    color: #6b48ff;
+    margin: 0 auto; }
+
+.form-login .card-body .input-group .form-control {
+  border: none; }
+  .form-login .card-body .input-group .form-control:focus {
+    border-color: rgba(0, 0, 0, 0.1); }
+
+.btn.btn-primaryLogin {
+    width: 50%;
+    background: #6b48ff;
+    border: 1px solid #6b48ff;
+    color: #fff; }
+.btn.btn-primaryRegister {
+    width: 50%;
+    background: #6b48ff;
+    border: 1px solid #6b48ff;
+    color: #fff; }
+
+
+
+
+
+body {
+    background: -webkit-linear-gradient(left, #303030, #242424); 
+    background: -o-linear-gradient(right, #303030, #242424); 
+    background: -moz-linear-gradient(right, #303030, #242424); 
+    background: linear-gradient(to right, #303030, #242424); 
+    background-color: #303030; 
+}
